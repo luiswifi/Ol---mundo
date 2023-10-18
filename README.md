@@ -3,3 +3,4 @@
 
 
 iniciante na programação aprendendo com Gustavo Guanabara!!!
+veni vidi vici
